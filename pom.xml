@@ -5,7 +5,7 @@
 
     <groupId>com.artic</groupId>
     <artifactId>NoHopperCraft</artifactId>
-    <version>1.20-SNAPSHOT</version>
+    <version>1.20</version>
 
     <properties>
         <java.version>21</java.version>
