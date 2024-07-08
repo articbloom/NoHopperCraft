@@ -3,4 +3,4 @@ version: 1.0
 main: com.artic.nohoppercraft.NoHopperCraft
 api-version: 1.20
 author: ChatGPT
-description: Plugin to disable crafting recipe of Hoppers
+description: Plugin to disable crafting of Hoppers
