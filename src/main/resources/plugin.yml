@@ -1,0 +1,5 @@
+name: NoHopperCraft
+version: 1.0
+main: com.aurora.nohoppercraft.NoHopperCraft
+api-version: 1.21
+description: A plugin to disable crafting of hoppers.
